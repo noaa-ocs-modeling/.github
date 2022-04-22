@@ -1,5 +1,5 @@
-# [modeling under the NOAA Office of Coast Survey](https://coastaloceanmodels.noaa.gov/)
-##### under the U.S. National Oceanic and Atmospheric Administration (NOAA) National Ocean Service (NOS)
+# modeling under the NOAA Office of Coast Survey
+### https://coastaloceanmodels.noaa.gov
 
 NOAA's [Office of Coast Survey](https://nauticalcharts.noaa.gov/) develops computer models that forecast oceanic variables (sea level, currents, temperature, salinity, etc.) in U.S. coastal regions. 
 These models can be grouped into three categories: **tidal models**, **storm surge models**, and **operational forecast systems**.
